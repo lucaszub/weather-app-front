@@ -146,3 +146,5 @@ const Dashboard_Temperature = ({ isCustomLineColors = false }) => {
 };
 
 export default Dashboard_Temperature;
+
+
